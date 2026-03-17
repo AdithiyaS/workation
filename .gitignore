@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+*.pkl
+*.joblib
+
+# Data (generated)
+backend/data/travel_packages.csv
+
+# Node
+node_modules/
+.next/
+*.local
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
